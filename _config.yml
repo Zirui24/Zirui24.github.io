@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zirui Liu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "PhD student in Huazhong University of Science and Technology. Focusing on "
 repository               : "zirui24.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Huazhong University of Science and Technology (HUST)"
   location         : "Hubei, China"
-  employer         :
+  employer         : "Ronghai Qu"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=s6tTk9wAAAAJ"
   email            : "ziruiliu@hust.edu.cn"
