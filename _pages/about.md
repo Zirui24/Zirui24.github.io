@@ -19,17 +19,20 @@ redirect_from:
 
 # 🔋 About Me
 
-Currently, I am completing my last year of Ph.D degree at the Center for Advanced Electrical Machines & Drives (CAEEMD), Huazhong University of Sci. & Tech. (HUST) under the tutelage of Professor [Ronghai Qu](https://ieeexplore.ieee.org/author/37278880800).
-I am looking for any opportunities for a post doc position in the field of power electrioncs and electrical machine.
+Currently, I am completing my last year of Ph.D degree at the Center for Advanced Electrical Machines & Drives (CAEMD), Huazhong University of Sci. & Tech. (HUST) under the tutelage of Professor [Ronghai Qu](https://ieeexplore.ieee.org/author/37278880800).
+
+I am currently looking for any opportunities for a postdoc and research assistant position in the field of power electronics or electrical machine.
 
 <html>
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
-                content left
+                <b>Educations</b>
+                2019.09 - 2025.06, PhD, College of Electrical and Electronic Engineering, HUST, Hubei.
+                2015.09 - 2019.06, Undergraduate, College of Electrical and Information Engineering, Hunan University, Hunan.
             </td>
             <td>
-                content right
+                <b>Research Interset</b>
             </td>
         </tr>
     </table>
