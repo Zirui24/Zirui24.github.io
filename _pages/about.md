@@ -28,7 +28,9 @@ I am currently looking for any opportunities for a postdoc and research assistan
         <tr>
             <td>
                 <b>Educations</b>
+
                 2019.09 - 2025.06, PhD, College of Electrical and Electronic Engineering, HUST, Hubei.
+                
                 2015.09 - 2019.06, Undergraduate, College of Electrical and Information Engineering, Hunan University, Hunan.
             </td>
             <td>
