@@ -17,7 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Test anA AA id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultriciasdt.sad
+# 🔋 About Me
+
+Currently, I am completing my last year of Ph.D degree at the Center for Advanced Electrical Machines & Drives (CAEEMD), Huazhong University of Sci. & Tech. (HUST) under the tutelage of Professor [Ronghai Qu](https://ieeexplore.ieee.org/author/37278880800).
+I am looking for any opportunities for a post doc position in the field of power electrioncs and electrical machine.
+
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                content left
+            </td>
+            <td>
+                content right
+            </td>
+        </tr>
+    </table>
+</html>
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'>google scholar citations <strong><span id='total_cit'>
 </span></strong></a> (You can also use google scholar badge 
