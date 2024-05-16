@@ -115,6 +115,7 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 - Operating Ambient Temperature can up to 150 $$^\circ$$C
 
 - Total Power Density 4.82 kW/kg (Larger than the latest aerospace SP200D series from Siemens, which power density is 3.8 kW/kg)
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Low Voltage 1kW Electrical Pump System</div><img src='images/proj2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
