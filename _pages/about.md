@@ -104,10 +104,9 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 # 🔨 Projects
 
+## 100kW High Temperature Intergated PMSM System
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">High Temperature, High Power Density Intergated PMSM </div><img src='images/proj1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-## 100kW High Temperature Intergated PMSM System
 
 - Fully integrated oil cooling
 
@@ -118,10 +117,9 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 - Total Power Density 4.82 kW/kg (Larger than the latest aerospace SP200D series from Siemens, which power density is 3.8 kW/kg)
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Low Voltage 1kW Electrical Pump System</div><img src='images/proj2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 ## Low Voltage 1kW Electrical Pump System
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Low Voltage 1kW Electrical Pump System</div><img src='images/proj2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="2">
 
 - Metal Additive Manufacturing
 
@@ -129,13 +127,6 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 - The control system is fully based on Matlab Embedded Coder Designer [![](https://img.shields.io/github/stars/Zirui24/EmbeddCoderC2000?style=social&label=Code+Stars)](https://github.com/Zirui24/EmbeddCoderC2000)
 </div>
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
