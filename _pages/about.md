@@ -64,6 +64,13 @@ My research includes high power density synchronous machine nonlinear system ide
 - ``IEEE TPEL`` [Improved small-signal injection-based online multiparameter identification method for IPM machines considering cross-coupling magnetic saturation](https://ieeexplore.ieee.org/abstract/document/9835132) 
 **Zirui Liu**, Xinggang Fan, Wubin Kong, Longfei Cao, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/PMSM_Elec.ANDMech.ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/PMSM_Elec.ANDMech.ParamEst)
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/362186000_Improved_Small-Signal_Injection-Based_Online_Multi-Parameter_Identification_Method_for_IPM_Machines_Considering_Cross-Coupling_Magnetic_Saturation)
+
+- ``IEEE TIE`` [Online Multi-Parameter Observation of IPM Machine with Reconstructed Nonlinear Small-Signal Model Based on Dual EKF](https://ieeexplore.ieee.org/abstract/document/10083049) 
+**Zirui Liu**, Wubin Kong, Xinggang Fan, Ronghai Qu
+[![](https://img.shields.io/github/stars/Zirui24/PMSM_Elec.ANDMech.ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/PMSM_Elec.ANDMech.ParamEst)
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/369569211_Online_Multi-Parameter_Observation_of_IPM_Machine_with_Reconstructed_Nonlinear_Small-Signal_Model_Based_on_Dual_EKF)
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
