@@ -39,7 +39,7 @@ My research includes high power density synchronous machine nonlinear system ide
             <td>
                 🎓 2019.09 - 2025.06, PhD, Huazhong University of Sci. & Tech. (HUST), Hubei <br>
                 <br>
-                🎓 2015.09 - 2019.06, Undergraduate, Hunan University, Hunan. <br>
+                🎓 2015.09 - 2019.06, Undergraduate, Hunan University, Hunan. <b>GPA: 3.89/4 2/263</b> <br>
             </td>
             <td>
                 <b>system identification & control</b> <br>
@@ -62,29 +62,53 @@ My research includes high power density synchronous machine nonlinear system ide
 <div class='paper-box-text' markdown="1"> -->
 
 - ``IEEE TPE`` [Improved small-signal injection-based online multiparameter identification method for IPM machines considering cross-coupling magnetic saturation](https://ieeexplore.ieee.org/abstract/document/9835132) 
+
 **Zirui Liu**, Xinggang Fan, Wubin Kong, Longfei Cao, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/PMSM_Elec.ANDMech.ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/PMSM_Elec.ANDMech.ParamEst)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/profile/Zirui-Liu-15/publication/362186000_Improved_Small-Signal_Injection-Based_Online_Multi-Parameter_Identification_Method_for_IPM_Machines_Considering_Cross-Coupling_Magnetic_Saturation/links/64c8e7f9b7d5e40f331955a1/Improved-Small-Signal-Injection-Based-Online-Multi-Parameter-Identification-Method-for-IPM-Machines-Considering-Cross-Coupling-Magnetic-Saturation.pdf)
 
 - ``IEEE TIE`` [Online Multi-Parameter Observation of IPM Machine with Reconstructed Nonlinear Small-Signal Model Based on Dual EKF](https://ieeexplore.ieee.org/abstract/document/10083049) 
+
 **Zirui Liu**, Wubin Kong, Xinggang Fan, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/PMSM_Elec.ANDMech.ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/PMSM_Elec.ANDMech.ParamEst)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/profile/Zirui-Liu-15/publication/369569211_Online_Multi-Parameter_Observation_of_IPM_Machine_with_Reconstructed_Nonlinear_Small-Signal_Model_Based_on_Dual_EKF/links/6426c6b3315dfb4ccec1091e/Online-Multi-Parameter-Observation-of-IPM-Machine-with-Reconstructed-Nonlinear-Small-Signal-Model-Based-on-Dual-EKF.pdf)
 
 - ``IEEE TTE`` [A Novel Adaptive Nonlinear Reaching Law for DC-link Voltage Control of DC-biased Vernier Reluctance Generator](https://ieeexplore.ieee.org/abstract/document/10505008) 
+
 Zimin Li, Wubin Kong, **Zirui Liu**, Bohan Shen, Ronghai Qu
 
 #### AC Machine Position Sensorless Control
 
 - ``IEEE TPE`` [Analytical Approach for Position Observation Error Correction in IPMSM Sensorless Drives Using Online Multi-Parameter Estimation](https://ieeexplore.ieee.org/abstract/document/9835132) 
+
 **Zirui Liu**, Bohan Shen, Wubin Kong, Xinggang Fan, Kai Peng, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/SynMotor_FSO_ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/SynMotor_FSO_ParamEst)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/profile/Zirui-Liu-15/publication/379939779_Analytical_Approach_for_Position_Observation_Error_Correction_in_IPMSM_Sensorless_Drives_Using_Online_Multi-Parameter_Estimation/links/662902af06367b604d489c46/Analytical-Approach-for-Position-Observation-Error-Correction-in-IPMSM-Sensorless-Drives-Using-Online-Multi-Parameter-Estimation.pdf)
 
 - ``ECCE 2023`` [Online Multiparameter Estimation with Position Error Correction for Unified Synchronous Machine Sensorless Drives](https://ieeexplore.ieee.org/abstract/document/10362894) 
+
 **Zirui Liu**, Wubin Kong, Xinggang Fan, Fei Wang, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/AdaptParamOb_ACMotorSensorlessControl)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/376963793_Online_Multiparameter_Estimation_with_Position_Error_Correction_for_Unified_Synchronous_Machine_Sensorless_Drives)
+
+- ``CIEEC 2023`` [Sensorless Control and Inductance Parameter Identification of PMSM Based on Two-Orientation High-Fequency Square Wave Injection](https://ieeexplore.ieee.org/abstract/document/10166793) 
+
+Haowen Zheng, Jiarui Hao, Ming Zha, **Zirui Liu**, Wubin Kong
+
+#### Real-time Thermal Modelling and Temperature Estimation
+
+- ``IEEE TIA`` [Comparison of heat transfer characteristics of the hollow-shaft oil cooling system for high-speed permanent magnet synchronous machines](https://ieeexplore.ieee.org/abstract/document/9835132) 
+
+Runyu Wang, Xinggang Fan, Dawei Li, Ronghai Qu, **Zirui Liu**, Lei Li
+
+- ``IEEE TIE`` [Improved LPTN-Based Online Temperature Prediction of Permanent Magnet Machines By Global Parameter Identification](https://ieeexplore.ieee.org/abstract/document/9905476/) 
+
+Longfei Cao, Xinggang Fan, Dawei Li, Wubin Kong, Ronghai Qu, **Zirui Liu**
+
+- ``IEEE TEC`` [A Computationally Efficient Semi-Analytical Method for Circulating Current Loss of High Speed Permanent Magnet Machines](https://ieeexplore.ieee.org/abstract/document/10243050/) 
+
+Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Ronghai Qu
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://nottingham-repository.worktribe.com/preview/27596113/TEC3312648%20A%20Computationally%20Efficient%20Semi-Analytical%20Method%20for%20Circulating%20Current%20Loss%20of%20High%20Speed%20Permanent%20Magnet%20Machines_Author%20Version.pdf)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
