@@ -119,6 +119,7 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Low Voltage 1kW Electrical Pump System</div><img src='images/proj2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 ## Low Voltage 1kW Electrical Pump System
 
 - Metal Additive Manufacturing
@@ -126,7 +127,7 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 - 28V 10,000 r/min low voltage high speed PMSM
 
 - The control system is fully based on Matlab Embedded Coder Designer [![](https://img.shields.io/github/stars/Zirui24/EmbeddCoderC2000?style=social&label=Code+Stars)](https://github.com/Zirui24/EmbeddCoderC2000)
-
+</div>
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
