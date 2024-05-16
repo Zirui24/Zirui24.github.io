@@ -19,9 +19,11 @@ redirect_from:
 
 # 🔋 About Me
 
-Currently, I am completing my last year of Ph.D degree at the Center for Advanced Electrical Machines & Drives (CAEMD), Huazhong University of Sci. & Tech. (HUST) under the tutelage of Professor [Ronghai Qu](https://ieeexplore.ieee.org/author/37278880800).
+Currently, I am completing my last year of Ph.D degree at the Center for Advanced Electrical Machines & Drives (CAEMD), Huazhong University of Sci. & Tech. (HUST), advised Professor [Ronghai Qu](https://ieeexplore.ieee.org/author/37278880800).
 
 I am currently looking for any opportunities for a postdoc and research assistant position in the field of power electronics or electrical machine.
+
+My research includes high power density synchronous machine nonlinear system identification, sensorless control, real-time thermal modelling and temperature estimation. I have published 10+ papers on IEEE Transactions and top EE conferences <a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZirui24%2FZirui24.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 <html>
     <table style="margin-left: auto; margin-right: auto;">
@@ -35,31 +37,26 @@ I am currently looking for any opportunities for a postdoc and research assistan
         </tr>
         <tr>
             <td>
-                2019.09 - 2025.06, PhD, Huazhong University of Sci. & Tech. (HUST), Hubei <br>
-                2015.09 - 2019.06, Undergraduate, Hunan University, Hunan. <br>
+                🎓 2019.09 - 2025.06, PhD, Huazhong University of Sci. & Tech. (HUST), Hubei <br>
+                <br>
+                🎓 2015.09 - 2019.06, Undergraduate, Hunan University, Hunan. <br>
             </td>
             <td>
-                system identification & control <br>
-                thermal analysis <br>
-                electrical machine design <br>
+                <b>system identification & control</b> <br>
+                <b>thermal analysis</b> <br>
+                <b>electrical machine design</b> <br>
             </td>
         </tr>
     </table>
 </html>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'>google scholar citations <strong><span id='total_cit'>
-</span></strong></a> (You can also use google scholar badge 
-
-<a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZirui24%2FZirui24.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
-
-
-
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+## Nonlinear Parameter Identification
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
