@@ -124,9 +124,11 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 ## Low Voltage 1kW Electrical Pump System
 
-- Metal Additive Manufacturing
+- Integrated design of cooling channel, high speed pmsm and Si MOSFET controller with Metal Additive Manufacturing
 
-- 28V 10,000 r/min low voltage high speed PMSM
+- 28V 10,000 r/min low voltage high speed SPMSM
+
+- Low cost resistor-based phase current sampling with position sensorless control
 
 - The control system is fully based on Matlab Embedded Coder Designer [![](https://img.shields.io/github/stars/Zirui24/EmbeddCoderC2000?style=social&label=Code+Stars)](https://github.com/Zirui24/EmbeddCoderC2000)
 </div>
