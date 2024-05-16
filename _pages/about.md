@@ -56,21 +56,35 @@ My research includes high power density synchronous machine nonlinear system ide
 
 # 📝 Publications 
 
-#### Nonlinear Parameter Identification
+#### Nonlinear Parameter Identification & Control
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-- ``IEEE TPEL`` [Improved small-signal injection-based online multiparameter identification method for IPM machines considering cross-coupling magnetic saturation](https://ieeexplore.ieee.org/abstract/document/9835132) 
+- ``IEEE TPE`` [Improved small-signal injection-based online multiparameter identification method for IPM machines considering cross-coupling magnetic saturation](https://ieeexplore.ieee.org/abstract/document/9835132) 
 **Zirui Liu**, Xinggang Fan, Wubin Kong, Longfei Cao, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/PMSM_Elec.ANDMech.ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/PMSM_Elec.ANDMech.ParamEst)
-[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/362186000_Improved_Small-Signal_Injection-Based_Online_Multi-Parameter_Identification_Method_for_IPM_Machines_Considering_Cross-Coupling_Magnetic_Saturation)
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/profile/Zirui-Liu-15/publication/362186000_Improved_Small-Signal_Injection-Based_Online_Multi-Parameter_Identification_Method_for_IPM_Machines_Considering_Cross-Coupling_Magnetic_Saturation/links/64c8e7f9b7d5e40f331955a1/Improved-Small-Signal-Injection-Based-Online-Multi-Parameter-Identification-Method-for-IPM-Machines-Considering-Cross-Coupling-Magnetic-Saturation.pdf)
 
 - ``IEEE TIE`` [Online Multi-Parameter Observation of IPM Machine with Reconstructed Nonlinear Small-Signal Model Based on Dual EKF](https://ieeexplore.ieee.org/abstract/document/10083049) 
 **Zirui Liu**, Wubin Kong, Xinggang Fan, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/PMSM_Elec.ANDMech.ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/PMSM_Elec.ANDMech.ParamEst)
-[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/369569211_Online_Multi-Parameter_Observation_of_IPM_Machine_with_Reconstructed_Nonlinear_Small-Signal_Model_Based_on_Dual_EKF)
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/profile/Zirui-Liu-15/publication/369569211_Online_Multi-Parameter_Observation_of_IPM_Machine_with_Reconstructed_Nonlinear_Small-Signal_Model_Based_on_Dual_EKF/links/6426c6b3315dfb4ccec1091e/Online-Multi-Parameter-Observation-of-IPM-Machine-with-Reconstructed-Nonlinear-Small-Signal-Model-Based-on-Dual-EKF.pdf)
 
+- ``IEEE TTE`` [A Novel Adaptive Nonlinear Reaching Law for DC-link Voltage Control of DC-biased Vernier Reluctance Generator](https://ieeexplore.ieee.org/abstract/document/10505008) 
+Zimin Li, Wubin Kong, **Zirui Liu**, Bohan Shen, Ronghai Qu
+
+#### AC Machine Position Sensorless Control
+
+- ``IEEE TPE`` [Analytical Approach for Position Observation Error Correction in IPMSM Sensorless Drives Using Online Multi-Parameter Estimation](https://ieeexplore.ieee.org/abstract/document/9835132) 
+**Zirui Liu**, Bohan Shen, Wubin Kong, Xinggang Fan, Kai Peng, Ronghai Qu
+[![](https://img.shields.io/github/stars/Zirui24/SynMotor_FSO_ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/SynMotor_FSO_ParamEst)
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/profile/Zirui-Liu-15/publication/379939779_Analytical_Approach_for_Position_Observation_Error_Correction_in_IPMSM_Sensorless_Drives_Using_Online_Multi-Parameter_Estimation/links/662902af06367b604d489c46/Analytical-Approach-for-Position-Observation-Error-Correction-in-IPMSM-Sensorless-Drives-Using-Online-Multi-Parameter-Estimation.pdf)
+
+- ``ECCE 2023`` [Online Multiparameter Estimation with Position Error Correction for Unified Synchronous Machine Sensorless Drives](https://ieeexplore.ieee.org/abstract/document/10362894) 
+**Zirui Liu**, Wubin Kong, Xinggang Fan, Fei Wang, Ronghai Qu
+[![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/AdaptParamOb_ACMotorSensorlessControl)
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/376963793_Online_Multiparameter_Estimation_with_Position_Error_Correction_for_Unified_Synchronous_Machine_Sensorless_Drives)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
