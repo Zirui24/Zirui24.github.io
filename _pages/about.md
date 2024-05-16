@@ -104,9 +104,10 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 # 🔨 Projects
 
-## 100kW High Temperature Intergated PMSM System
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">High Temperature, High Power Density Intergated PMSM </div><img src='images/proj1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+## 100kW High Temperature Intergated PMSM System
 
 - Fully integrated oil cooling
 
@@ -116,16 +117,19 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 - Total Power Density 4.82 kW/kg (Larger than the latest aerospace SP200D series from Siemens, which power density is 3.8 kW/kg)
 </div>
+</div>
 
-## Low Voltage 1kW Electrical Pump System
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Low Voltage 1kW Electrical Pump System</div><img src='images/proj2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="2">
+
+## Low Voltage 1kW Electrical Pump System
 
 - Metal Additive Manufacturing
 
 - 28V 10,000 r/min low voltage high speed PMSM
 
 - The control system is fully based on Matlab Embedded Coder Designer [![](https://img.shields.io/github/stars/Zirui24/EmbeddCoderC2000?style=social&label=Code+Stars)](https://github.com/Zirui24/EmbeddCoderC2000)
+</div>
 </div>
 
 # 🎖 Honors and Awards
