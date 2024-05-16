@@ -39,7 +39,7 @@ My research includes high power density synchronous machine nonlinear system ide
             <td>
                 🎓 2019.09 - 2025.06, PhD, Huazhong University of Sci. & Tech. (HUST), Hubei <br>
                 <br>
-                🎓 2015.09 - 2019.06, Undergraduate, Hunan University, Hunan. <b>GPA: 3.89/4 RANK: 2/263</b> <br>
+                🎓 2015.09 - 2019.06, Undergraduate, Hunan University, Hunan. <b>GRADE: 87.08/100 RANK: 2/263</b> <br>
             </td>
             <td>
                 <b>system identification & control</b> <br>
