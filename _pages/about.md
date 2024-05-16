@@ -32,6 +32,8 @@ I am currently looking for any opportunities for a postdoc and research assistan
             <td>
                 <b>Research Interset</b> <br>
             </td>
+        </tr>
+        <tr>
             <td>
                 2019.09 - 2025.06, PhD, Huazhong University of Sci. & Tech. (HUST), Hubei <br>
                 2015.09 - 2019.06, Undergraduate, Hunan University, Hunan. <br>
