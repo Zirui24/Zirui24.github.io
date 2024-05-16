@@ -19,7 +19,7 @@ redirect_from:
 
 # 🔋 About Me
 
-Currently, I am completing my last year of Ph.D degree at the Center for Advanced Electrical Machines & Drives (CAEMD), Huazhong University of Sci. & Tech. (HUST), advised Professor [Ronghai Qu](https://ieeexplore.ieee.org/author/37278880800).
+Currently, I am completing my last year of Ph.D degree at the Center for Advanced Electrical Machines & Drives (CAEMD), Huazhong University of Sci. & Tech. (HUST), advised by Professor [Ronghai Qu](https://ieeexplore.ieee.org/author/37278880800).
 
 I am currently looking for any opportunities for a postdoc and research assistant position in the field of power electronics or electrical machine.
 
@@ -56,12 +56,12 @@ My research includes high power density synchronous machine nonlinear system ide
 
 # 📝 Publications 
 
-## Nonlinear Parameter Identification
+#### Nonlinear Parameter Identification
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<div class="badge">IEEE TPEL</div> [Improved small-signal injection-based online multiparameter identification method for IPM machines considering cross-coupling magnetic saturation](https://ieeexplore.ieee.org/abstract/document/9835132) 
+-``IEEE TPEL`` [Improved small-signal injection-based online multiparameter identification method for IPM machines considering cross-coupling magnetic saturation](https://ieeexplore.ieee.org/abstract/document/9835132) 
 **Zirui Liu**, Xinggang Fan, Wubin Kong, Longfei Cao, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/PMSM_Elec.ANDMech.ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/PMSM_Elec.ANDMech.ParamEst)
 
