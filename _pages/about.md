@@ -20,7 +20,13 @@ redirect_from:
 Test anA AA id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultriciasdt.sad
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'>google scholar citations <strong><span id='total_cit'>
-</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+</span></strong></a> (You can also use google scholar badge 
+
+<a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+<a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgithub.com%2FZirui24%2FZirui24.github.io%2Fblob%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+
 
 <a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
