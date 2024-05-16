@@ -28,11 +28,14 @@ I am currently looking for any opportunities for a postdoc and research assistan
         <tr>
             <td>
                 <b>Educations</b> <br>
-                2019.09 - 2025.06, PhD, College of Electrical and Electronic Engineering, HUST, Hubei <br>
-                2015.09 - 2019.06, Undergraduate, College of Electrical and Information Engineering, Hunan University, Hunan. <br>
+                2019.09 - 2025.06, PhD, Huazhong University of Sci. & Tech. (HUST), Hubei <br>
+                2015.09 - 2019.06, Undergraduate, Hunan University, Hunan. <br>
             </td>
             <td>
-                <b>Research Interset</b>
+                <b>Research Interset</b> <br>
+                system identification & control <br>
+                thermal analysis <br>
+                electrical machine design <br>
             </td>
         </tr>
     </table>
