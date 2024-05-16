@@ -104,13 +104,11 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 # 🔨 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">High Temperature high power density intergated PMSM </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">High Temperature, High Power Density Intergated PMSM </div><img src='images/proj1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-ababasba
-
-abasba
-
-abasb
+## 100kW High Temperature Intergated PMSM System
+Operating Ambient Temperature up to 150 ^\circ C
+Total Power Density 4.5 kW/kg (Larger than the latest aerospace SP200D series from Siemens, which power density is 3.8 kW/kg)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
