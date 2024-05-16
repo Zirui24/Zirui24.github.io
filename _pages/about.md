@@ -99,7 +99,7 @@ Haowen Zheng, Jiarui Hao, Ming Zha, **Zirui Liu**, Wubin Kong
 
 - ``IEEE TIA`` [Comparison of heat transfer characteristics of the hollow-shaft oil cooling system for high-speed permanent magnet synchronous machines](https://ieeexplore.ieee.org/abstract/document/9835132) 
 
-;;;;;;;;Runyu Wang, Xinggang Fan, Dawei Li, Ronghai Qu, **Zirui Liu**, Lei Li
+        Runyu Wang, Xinggang Fan, Dawei Li, Ronghai Qu, **Zirui Liu**, Lei Li
 
 - ``IEEE TIE`` [Improved LPTN-Based Online Temperature Prediction of Permanent Magnet Machines By Global Parameter Identification](https://ieeexplore.ieee.org/abstract/document/9905476/) 
 
