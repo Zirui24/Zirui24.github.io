@@ -130,17 +130,35 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 - Low cost resistor-based phase current sampling with position sensorless control
 
-- The control system is fully based on Matlab Embedded Coder Designer [![](https://img.shields.io/github/stars/Zirui24/EmbeddCoderC2000?style=social&label=Code+Stars)](https://github.com/Zirui24/EmbeddCoderC2000)
+- The system software is fully based on Matlab Embedded Coder Designer [![](https://img.shields.io/github/stars/Zirui24/EmbeddCoderC2000?style=social&label=Code+Stars)](https://github.com/Zirui24/EmbeddCoderC2000)
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Two times **National Scholarship** (2016, 2017)
+- Three times **The first prize Scholarship** (2018, 2022, 2023)
+- Three times **Merit Student** (2016, 2017, 2018)
+- *2017.03* **Meritortious Winner** in The Mathematical Contest in Modeling (MCM)
+- *2017.11* **The Second prize of Hunan Area** in The National Undergraduate Electronic Design Contest
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Academic Service
+- Journal Reviewer
+
+IEEE Transactions on Power Electronics (18)
+
+IEEE Transactions on Transportation Electrification (5)
+
+- Conference Reviewer
+
+The 7th International Electrical and Energy Conference 2024 (CIEEC 2024)
+
+The 26th international Conference on Electrical Machines and Systems 2023 (ICEMS 2023)
+
+The 6th International Electrical and Energy Conference 2024 (CIEEC 2023)
+
+The 3rd China International Youth Conference on Electrical Engineering (CIYCEE 2022)
+
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
