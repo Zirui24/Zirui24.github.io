@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zirui Liu"
-description              : "PhD student in Huazhong University of Science and Technology. Focusing on "
+description              : "PhD student in HUST. Focusing on electrical machine control & analysis"
 repository               : "zirui24.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Huazhong University of Science and Technology (HUST)"
   location         : "Hubei, China"
-  employer         : "Ronghai Qu"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=s6tTk9wAAAAJ"
   email            : "ziruiliu@hust.edu.cn"
