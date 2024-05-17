@@ -50,13 +50,21 @@ My research includes high power density synchronous machine nonlinear system ide
     </table>
 </html>
 
+<span class='anchor' id='skills'></span>
+
+# ⚙️ Skills
+
+C, Matlab, Python, LaTeX, Finite Element Analysis, Embedded Coder
+
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Publications 
 
-#### Nonlinear Parameter Identification & Control
+#### Part I: Nonlinear Parameter Identification & Control
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -74,7 +82,7 @@ My research includes high power density synchronous machine nonlinear system ide
 - ``IEEE TTE`` [A Novel Adaptive Nonlinear Reaching Law for DC-link Voltage Control of DC-biased Vernier Reluctance Generator](https://ieeexplore.ieee.org/abstract/document/10505008) 
 Zimin Li, Wubin Kong, **Zirui Liu**, Bohan Shen, Ronghai Qu
 
-#### AC Machine Position Sensorless Control
+#### Part II: AC Machine Position Sensorless Control
 
 - ``IEEE TPE`` [Analytical Approach for Position Observation Error Correction in IPMSM Sensorless Drives Using Online Multi-Parameter Estimation](https://ieeexplore.ieee.org/abstract/document/9835132) 
 **Zirui Liu**, Bohan Shen, Wubin Kong, Xinggang Fan, Kai Peng, Ronghai Qu
@@ -89,7 +97,7 @@ Zimin Li, Wubin Kong, **Zirui Liu**, Bohan Shen, Ronghai Qu
 - ``CIEEC 2023`` [Sensorless Control and Inductance Parameter Identification of PMSM Based on Two-Orientation High-Fequency Square Wave Injection](https://ieeexplore.ieee.org/abstract/document/10166793) 
 Haowen Zheng, Jiarui Hao, Ming Zha, **Zirui Liu**, Wubin Kong
 
-#### Real-time Thermal Modelling and Temperature Estimation
+#### Part III: Real-time Thermal Modelling and Temperature Estimation
 
 - ``IEEE TIA`` [Comparison of heat transfer characteristics of the hollow-shaft oil cooling system for high-speed permanent magnet synchronous machines](https://ieeexplore.ieee.org/abstract/document/9835132) 
 Runyu Wang, Xinggang Fan, Dawei Li, Ronghai Qu, **Zirui Liu**, Lei Li
@@ -101,6 +109,7 @@ Longfei Cao, Xinggang Fan, Dawei Li, Wubin Kong, Ronghai Qu, **Zirui Liu**
 Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Ronghai Qu
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://nottingham-repository.worktribe.com/preview/27596113/TEC3312648%20A%20Computationally%20Efficient%20Semi-Analytical%20Method%20for%20Circulating%20Current%20Loss%20of%20High%20Speed%20Permanent%20Magnet%20Machines_Author%20Version.pdf)
 
+<span class='anchor' id='projects'></span>
 
 # 🔨 Projects
 
@@ -149,6 +158,8 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 </div>
 </div>
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🏆 Honors and Awards
 - **Two times** National Scholarship (*2016*, *2017*)
 - **Three times** The first prize Scholarship (*2018*, *2022*, *2023*)
@@ -156,6 +167,8 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 - *2017.03* **Meritortious Winner** in The Mathematical Contest in Modeling (MCM)
 - *2017.11* **The Second prize of Hunan Area** in The National Undergraduate Electronic Design Contest
 - *2021.11* **Outstanding Winner** in the Huawei Future Smart Car Creative Innovation Competition (The competition prize is 10,000 yuan)
+
+<span class='anchor' id='academic-service'></span>
 
 # 📖 Academic Service
 - Journal Reviewer
@@ -174,6 +187,7 @@ The 6th International Electrical and Energy Conference 2024 (CIEEC 2023)
 
 The 3rd China International Youth Conference on Electrical Engineering (CIYCEE 2022)
 
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 - *2019.02 - 2019.04*, Huawei Intelligent Vehicle Solutions BU, Shanghai, China.
