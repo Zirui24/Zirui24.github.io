@@ -149,19 +149,20 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- Two times **National Scholarship** (2016, 2017)
-- Three times **The first prize Scholarship** (2018, 2022, 2023)
-- Three times **Merit Student** (2016, 2017, 2018)
+# 🏆 Honors and Awards
+- **Two times** National Scholarship (*2016*, *2017*)
+- **Three times** The first prize Scholarship (*2018*, *2022*, *2023*)
+- **Three times** Merit Student (*2016*, *2017*, *2018*)
 - *2017.03* **Meritortious Winner** in The Mathematical Contest in Modeling (MCM)
 - *2017.11* **The Second prize of Hunan Area** in The National Undergraduate Electronic Design Contest
+- *2021.11* **Outstanding Winner** in the Huawei Future Smart Car Creative Innovation Competition (The competition prize is 10,000 yuan)
 
 # 📖 Academic Service
 - Journal Reviewer
 
 IEEE Transactions on Power Electronics (18)
 
-IEEE Transactions on Transportation Electrification (5)
+IEEE Transactions on Transportation Electrification 
 
 - Conference Reviewer
 
@@ -174,10 +175,5 @@ The 6th International Electrical and Energy Conference 2024 (CIEEC 2023)
 The 3rd China International Youth Conference on Electrical Engineering (CIYCEE 2022)
 
 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.02 - 2019.04*, Huawei Intelligent Vehicle Solutions BU, Shanghai, China.
