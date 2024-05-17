@@ -166,7 +166,7 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 - **Three times** Merit Student (*2016*, *2017*, *2018*)
 - *2017.03* **Meritortious Winner** in The Mathematical Contest in Modeling (MCM)
 - *2017.11* **The Second prize of Hunan Area** in The National Undergraduate Electronic Design Contest
-- *2021.11* **Outstanding Winner** in the Huawei Future Smart Car Creative Innovation Competition (The competition prize is 10,000 yuan)
+- *2021.11* **Outstanding Winner** in the Huawei Future Smart Car Creative Innovation Competition (The competition prize is 100,000 yuan)
 
 <span class='anchor' id='academic-service'></span>
 
@@ -175,7 +175,7 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 IEEE Transactions on Power Electronics (18)
 
-IEEE Transactions on Transportation Electrification 
+IEEE Transactions on Transportation Electrification (5)
 
 - Conference Reviewer
 
