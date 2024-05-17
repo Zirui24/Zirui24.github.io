@@ -134,6 +134,21 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPMSM Test Platform for EV application</div><img src='images/proj3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## IPMSM Test Platform for EV application
+
+- 60kW IPMSM Test Platform
+
+- Up to 20 Temperature Sensors installed inside different positions inside the controller, stator and rotor
+
+- Raspberry Pi 5 function as a semi host computer for real-time thermal modelling and complex algorithm execution
+
+- The system software is fully based on Matlab Embedded Coder Designer [![](https://img.shields.io/github/stars/Zirui24/EmbeddCoderC2000?style=social&label=Code+Stars)](https://github.com/Zirui24/EmbeddCoderC2000)
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - Two times **National Scholarship** (2016, 2017)
 - Three times **The first prize Scholarship** (2018, 2022, 2023)
