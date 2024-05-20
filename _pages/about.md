@@ -54,7 +54,9 @@ My research includes high power density synchronous machine nonlinear system ide
 
 # ⚙️ Skills
 
-C, Matlab, Python, LaTeX, Finite Element Analysis, Embedded Coder
+**Programming:** C, Matlab, Python, LaTeX
+
+**Tools:** Simulink, Embedded Coder, Altium Designer, JMAG, Pspice
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
