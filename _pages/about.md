@@ -180,6 +180,10 @@ IEEE Transactions on Power Electronics (18)
 
 IEEE Transactions on Transportation Electrification (5)
 
+IEEE Journal of Emerging and Selected Topics in Power Electronics (1)
+
+IEEE Transactions on Industrial Informatics (1)
+
 - Conference Reviewer
 
 The 7th International Electrical and Energy Conference 2024 (CIEEC 2024)
