@@ -21,7 +21,8 @@ redirect_from:
 
 Currently, I am completing my last year of Ph.D degree at the Center for Advanced Electrical Machines & Drives (CAEMD), Huazhong University of Sci. & Tech. (HUST), advised by Professor [Ronghai Qu](https://ieeexplore.ieee.org/author/37278880800).
 
-I am currently looking for any opportunities for a postdoc and research assistant position in the field of power electronics or electrical machine.
+I am currently looking for any opportunities for a postdoc and research assistant position in the field of power electronics or electrical machine. Here is my CV.
+[![](https://img.shields.io/badge/CV-blue)](https://www.researchgate.net/profile/Zirui-Liu-15/publication/362186000_Improved_Small-Signal_Injection-Based_Online_Multi-Parameter_Identification_Method_for_IPM_Machines_Considering_Cross-Coupling_Magnetic_Saturation/links/64c8e7f9b7d5e40f331955a1/Improved-Small-Signal-Injection-Based-Online-Multi-Parameter-Identification-Method-for-IPM-Machines-Considering-Cross-Coupling-Magnetic-Saturation.pdf)
 
 My research includes high power density synchronous machine nonlinear system identification, sensorless control, real-time thermal modelling and temperature estimation. I have published 10+ papers on IEEE Transactions and top EE conferences <a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZirui24%2FZirui24.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
