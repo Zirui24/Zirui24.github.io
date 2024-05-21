@@ -166,7 +166,7 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 - **Two times** National Scholarship (*2016*, *2017*)
 - **Three times** The first prize Scholarship (*2018*, *2022*, *2023*)
 - **Three times** Merit Student (*2016*, *2017*, *2018*)
-- *2017.03* **Meritortious Winner** in The Mathematical Contest in Modeling (MCM)
+- *2017.03* **Meritorious Winner** in The Mathematical Contest in Modeling (MCM)
 - *2017.11* **The Second prize of Hunan Area** in The National Undergraduate Electronic Design Contest
 - *2021.11* **Outstanding Winner** in the Huawei Future Smart Car Creative Innovation Competition (The competition prize is 100,000 yuan)
 
