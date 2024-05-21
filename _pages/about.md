@@ -193,4 +193,4 @@ The 3rd China International Youth Conference on Electrical Engineering (CIYCEE 2
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- *2019.02 - 2019.04*, Huawei Intelligent Vehicle Solutions BU, Shanghai, China.
+- *2021.02 - 2021.04*, Huawei Intelligent Vehicle Solutions BU, Shanghai, China.
