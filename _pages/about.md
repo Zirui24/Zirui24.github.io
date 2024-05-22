@@ -101,16 +101,31 @@ Zimin Li, Wubin Kong, **Zirui Liu**, Bohan Shen, Ronghai Qu
 Haowen Zheng, Jiarui Hao, Ming Zha, **Zirui Liu**, Wubin Kong
 
 #### Part III: Real-time Thermal Modelling and Temperature Estimation
+- ``IEEE TPE`` Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM **under review**
+Longfei Cao, Xinggang Fan, Dawei Li, Wubin Kong, Ronghai Qu, **Zirui Liu**
+
+- ``IEEE TIE`` [Improved LPTN-Based Online Temperature Prediction of Permanent Magnet Machines By Global Parameter Identification](https://ieeexplore.ieee.org/abstract/document/9905476/) 
+**Zirui Liu**， Wubin Kong, Xinggang Fan, Zimin Li, Kai Peng, Ronghai Qu 
 
 - ``IEEE TIA`` [Comparison of heat transfer characteristics of the hollow-shaft oil cooling system for high-speed permanent magnet synchronous machines](https://ieeexplore.ieee.org/abstract/document/9835132) 
 Runyu Wang, Xinggang Fan, Dawei Li, Ronghai Qu, **Zirui Liu**, Lei Li
 
-- ``IEEE TIE`` [Improved LPTN-Based Online Temperature Prediction of Permanent Magnet Machines By Global Parameter Identification](https://ieeexplore.ieee.org/abstract/document/9905476/) 
-Longfei Cao, Xinggang Fan, Dawei Li, Wubin Kong, Ronghai Qu, **Zirui Liu**
-
 - ``IEEE TEC`` [A Computationally Efficient Semi-Analytical Method for Circulating Current Loss of High Speed Permanent Magnet Machines](https://ieeexplore.ieee.org/abstract/document/10243050/) 
 Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Ronghai Qu
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://nottingham-repository.worktribe.com/preview/27596113/TEC3312648%20A%20Computationally%20Efficient%20Semi-Analytical%20Method%20for%20Circulating%20Current%20Loss%20of%20High%20Speed%20Permanent%20Magnet%20Machines_Author%20Version.pdf)
+
+#### Others
+
+- ``ICEMS`` [A Capacitor Voltage Sorting Algorithm for Modular Multilevel Converters(MMC) under Low-Frequency Carrier Modulation](https://ieeexplore.ieee.org/abstract/document/8922104)
+**Zirui Liu**, Wenjuan Yu, Haifeng Guo, Wubin Kong, Chun Gan, Ronghai Qu
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/337785714_A_Capacitor_Voltage_Sorting_Algorithm_for_Modular_Multilevel_ConvertersMMC_under_Low-Frequency_Carrier_Modulation)
+
+- ``SEEE`` [Parameter Identification for DC-biased Vernier Reluctance Motor Considering Harmonic Current and Inverter Nonlinearity](https://www.researchgate.net/publication/369252888_Parameter_Identification_for_DC-biased_Vernier_Reluctance_Motor_Considering_Harmonic_Current_and_Inverter_Nonlinearity)
+Songbai Yang, Wubin Kong, Zimin Li, **Zirui Liu**
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/337785714_A_Capacitor_Voltage_Sorting_Algorithm_for_Modular_Multilevel_ConvertersMMC_under_Low-Frequency_Carrier_Modulation)
+
+- ``IEEE DataPort`` [Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM](https://ieee-dataport.org/documents/hybrid-thermal-modeling-lptn-informed-neural-network-multi-node-temperature-estimation)
+**Zirui Liu**, Wubin Kong, Xinggang Fan, Zimin Li, Peng Kai, Ronghai Qu.
 
 <span class='anchor' id='projects'></span>
 
