@@ -102,10 +102,11 @@ Haowen Zheng, Jiarui Hao, Ming Zha, **Zirui Liu**, Wubin Kong
 
 #### Part III: Real-time Thermal Modelling and Temperature Estimation
 - ``IEEE TPE`` Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM **under review**
-Longfei Cao, Xinggang Fan, Dawei Li, Wubin Kong, Ronghai Qu, **Zirui Liu**
+**Zirui Liu**， Wubin Kong, Xinggang Fan, Zimin Li, Kai Peng, Ronghai Qu 
+
 
 - ``IEEE TIE`` [Improved LPTN-Based Online Temperature Prediction of Permanent Magnet Machines By Global Parameter Identification](https://ieeexplore.ieee.org/abstract/document/9905476/) 
-**Zirui Liu**， Wubin Kong, Xinggang Fan, Zimin Li, Kai Peng, Ronghai Qu 
+Longfei Cao, Xinggang Fan, Dawei Li, Wubin Kong, Ronghai Qu, **Zirui Liu**
 
 - ``IEEE TIA`` [Comparison of heat transfer characteristics of the hollow-shaft oil cooling system for high-speed permanent magnet synchronous machines](https://ieeexplore.ieee.org/abstract/document/9835132) 
 Runyu Wang, Xinggang Fan, Dawei Li, Ronghai Qu, **Zirui Liu**, Lei Li
