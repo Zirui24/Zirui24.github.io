@@ -165,15 +165,30 @@ Songbai Yang, Wubin Kong, Zimin Li, **Zirui Liu**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPMSM Test Platform for EV application</div><img src='images/proj3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## IPMSM Test Platform for EV application
+## IPMSM Test Platform for EV Application
 
-- 60kW IPMSM Test Platform
+- 60kW IPMSM Test Platform with back-to-back 
 
 - Up to 20 Temperature Sensors installed inside different positions inside the controller, stator and rotor
 
 - Raspberry Pi 5 function as a semi host computer for real-time thermal modelling and complex algorithm execution
 
 - The system software is fully based on Matlab Embedded Coder Designer [![](https://img.shields.io/github/stars/Zirui24/EmbeddCoderC2000?style=social&label=Code+Stars)](https://github.com/Zirui24/EmbeddCoderC2000)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">All-in-one Electrical Motor Controller for EV Thermal Control</div><img src='images/proj4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## All-in-one Thermal Controller for EV Application
+
+- One 8kW 400~720V IPMSM drive with sensorless control for air compressor.
+
+- Three 150W, 12V BLDC drive with sensorless control.
+
+- Five 12W, 12V stepping motor drive.
+
+- Three 1A, 12V electrical valve.
 </div>
 </div>
 
