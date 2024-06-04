@@ -73,84 +73,69 @@ My research includes high power density synchronous machine nonlinear system ide
 <div class='paper-box-text' markdown="1"> -->
 
 - ``IEEE TPE`` [Improved small-signal injection-based online multiparameter identification method for IPM machines considering cross-coupling magnetic saturation](https://ieeexplore.ieee.org/abstract/document/9835132) 
+**Zirui Liu**, Xinggang Fan, Wubin Kong, Longfei Cao, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/PMSM_Elec.ANDMech.ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/PMSM_Elec.ANDMech.ParamEst)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/profile/Zirui-Liu-15/publication/362186000_Improved_Small-Signal_Injection-Based_Online_Multi-Parameter_Identification_Method_for_IPM_Machines_Considering_Cross-Coupling_Magnetic_Saturation/links/64c8e7f9b7d5e40f331955a1/Improved-Small-Signal-Injection-Based-Online-Multi-Parameter-Identification-Method-for-IPM-Machines-Considering-Cross-Coupling-Magnetic-Saturation.pdf)
 
-**Zirui Liu**, Xinggang Fan, Wubin Kong, Longfei Cao, Ronghai Qu
-
 - ``IEEE TIE`` [Online Multi-Parameter Observation of IPM Machine with Reconstructed Nonlinear Small-Signal Model Based on Dual EKF](https://ieeexplore.ieee.org/abstract/document/10083049) 
+**Zirui Liu**, Wubin Kong, Xinggang Fan, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/PMSM_Elec.ANDMech.ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/PMSM_Elec.ANDMech.ParamEst)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/profile/Zirui-Liu-15/publication/369569211_Online_Multi-Parameter_Observation_of_IPM_Machine_with_Reconstructed_Nonlinear_Small-Signal_Model_Based_on_Dual_EKF/links/6426c6b3315dfb4ccec1091e/Online-Multi-Parameter-Observation-of-IPM-Machine-with-Reconstructed-Nonlinear-Small-Signal-Model-Based-on-Dual-EKF.pdf)
-
-**Zirui Liu**, Wubin Kong, Xinggang Fan, Ronghai Qu
 
 #### Part II: AC Machine Position Sensorless Control
 
 - ``IEEE TPE`` [Analytical Approach for Position Observation Error Correction in IPMSM Sensorless Drives Using Online Multi-Parameter Estimation](https://ieeexplore.ieee.org/abstract/document/9835132) 
+**Zirui Liu**, Bohan Shen, Wubin Kong, Xinggang Fan, Kai Peng, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/SynMotor_FSO_ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/SynMotor_FSO_ParamEst)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/profile/Zirui-Liu-15/publication/379939779_Analytical_Approach_for_Position_Observation_Error_Correction_in_IPMSM_Sensorless_Drives_Using_Online_Multi-Parameter_Estimation/links/662902af06367b604d489c46/Analytical-Approach-for-Position-Observation-Error-Correction-in-IPMSM-Sensorless-Drives-Using-Online-Multi-Parameter-Estimation.pdf)
 
-**Zirui Liu**, Bohan Shen, Wubin Kong, Xinggang Fan, Kai Peng, Ronghai Qu
-
 - ``ECCE 2023`` [Online Multiparameter Estimation with Position Error Correction for Unified Synchronous Machine Sensorless Drives](https://ieeexplore.ieee.org/abstract/document/10362894) 
+**Zirui Liu**, Wubin Kong, Xinggang Fan, Fei Wang, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/AdaptParamOb_ACMotorSensorlessControl)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/376963793_Online_Multiparameter_Estimation_with_Position_Error_Correction_for_Unified_Synchronous_Machine_Sensorless_Drives)
 
-**Zirui Liu**, Wubin Kong, Xinggang Fan, Fei Wang, Ronghai Qu
-
 - ``IEEE TIA`` Online Multiparameter Estimation with Position Error Correction for Unified Synchronous Machine Sensorless Drives **Under Review**
+**Zirui Liu**, Wubin Kong, Hengyang Liu, Kai Peng, Fei Wang, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/AdaptParamOb_ACMotorSensorlessControl)
 
-**Zirui Liu**, Wubin Kong, Hengyang Liu, Kai Peng, Fei Wang, Ronghai Qu
 
 #### Part III: Real-time Thermal Modelling and Temperature Estimation
 - ``IEEE TPE`` [Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM](https://ieeexplore.ieee.org/abstract/document/10362894) 
+**Zirui Liu**, Wubin Kong, Xinggang Fan, Zimin Li, Kai Peng, Ronghai Qu 
 [![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/lptn_informed_LSTM)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/376963793_Online_Multiparameter_Estimation_with_Position_Error_Correction_for_Unified_Synchronous_Machine_Sensorless_Drives)
 
-**Zirui Liu**, Wubin Kong, Xinggang Fan, Zimin Li, Kai Peng, Ronghai Qu 
-
 - ``IEEE DataPort`` [Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM](https://ieee-dataport.org/documents/hybrid-thermal-modeling-lptn-informed-neural-network-multi-node-temperature-estimation)
-
 **Zirui Liu**, Wubin Kong, Xinggang Fan, Zimin Li, Peng Kai, Ronghai Qu.
 
 #### Others
 
 - ``ICEMS 2019`` [A Capacitor Voltage Sorting Algorithm for Modular Multilevel Converters(MMC) under Low-Frequency Carrier Modulation](https://ieeexplore.ieee.org/abstract/document/8922104)
-[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/337785714_A_Capacitor_Voltage_Sorting_Algorithm_for_Modular_Multilevel_ConvertersMMC_under_Low-Frequency_Carrier_Modulation)
-
 **Zirui Liu**, Wenjuan Yu, Haifeng Guo, Wubin Kong, Chun Gan, Ronghai Qu
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/337785714_A_Capacitor_Voltage_Sorting_Algorithm_for_Modular_Multilevel_ConvertersMMC_under_Low-Frequency_Carrier_Modulation)
 
 - ``SEEE`` [Parameter Identification for DC-biased Vernier Reluctance Motor Considering Harmonic Current and Inverter Nonlinearity](https://www.researchgate.net/publication/369252888_Parameter_Identification_for_DC-biased_Vernier_Reluctance_Motor_Considering_Harmonic_Current_and_Inverter_Nonlinearity)
+Songbai Yang, Wubin Kong, Zimin Li, **Zirui Liu**
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/337785714_A_Capacitor_Voltage_Sorting_Algorithm_for_Modular_Multilevel_ConvertersMMC_under_Low-Frequency_Carrier_Modulation)
 
-Songbai Yang, Wubin Kong, Zimin Li, **Zirui Liu**
-
 - ``IEEE TTE`` [A Novel Adaptive Nonlinear Reaching Law for DC-link Voltage Control of DC-biased Vernier Reluctance Generator](https://ieeexplore.ieee.org/abstract/document/10505008) 
-
 Zimin Li, Wubin Kong, **Zirui Liu**, Bohan Shen, Ronghai Qu
 
 - ``IEEE JESTPE`` [Dead-Time Compensation Based on Current Phase Estimation for High-Frequency Cascaded Transformer Multilevel Inverter](https://ieeexplore.ieee.org/abstract/document/10543025)
-
 Hengyang Liu, Xianglong Wu, Wubin Kong, Gen Long, Hangchuan Lou, **Zirui Liu**, Dawei Li.
 
 - ``CIEEC 2023`` [Sensorless Control and Inductance Parameter Identification of PMSM Based on Two-Orientation High-Fequency Square Wave Injection](https://ieeexplore.ieee.org/abstract/document/10166793) 
-
 Haowen Zheng, Jiarui Hao, Ming Zha, **Zirui Liu**, Wubin Kong
 
 - ``IEEE TIE`` [Improved LPTN-Based Online Temperature Prediction of Permanent Magnet Machines By Global Parameter Identification](https://ieeexplore.ieee.org/abstract/document/9905476/) 
-
 Longfei Cao, Xinggang Fan, Dawei Li, Wubin Kong, Ronghai Qu, **Zirui Liu**
 
 - ``IEEE TIA`` [Comparison of heat transfer characteristics of the hollow-shaft oil cooling system for high-speed permanent magnet synchronous machines](https://ieeexplore.ieee.org/abstract/document/9835132) 
-
 Runyu Wang, Xinggang Fan, Dawei Li, Ronghai Qu, **Zirui Liu**, Lei Li
 
 - ``IEEE TEC`` [A Computationally Efficient Semi-Analytical Method for Circulating Current Loss of High Speed Permanent Magnet Machines](https://ieeexplore.ieee.org/abstract/document/10243050/) 
-[![](https://img.shields.io/badge/PDF-8A2BE2)](https://nottingham-repository.worktribe.com/preview/27596113/TEC3312648%20A%20Computationally%20Efficient%20Semi-Analytical%20Method%20for%20Circulating%20Current%20Loss%20of%20High%20Speed%20Permanent%20Magnet%20Machines_Author%20Version.pdf)
-
 Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Ronghai Qu
-
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://nottingham-repository.worktribe.com/preview/27596113/TEC3312648%20A%20Computationally%20Efficient%20Semi-Analytical%20Method%20for%20Circulating%20Current%20Loss%20of%20High%20Speed%20Permanent%20Magnet%20Machines_Author%20Version.pdf)
 
 <span class='anchor' id='projects'></span>
 
