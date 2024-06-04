@@ -89,30 +89,28 @@ My research includes high power density synchronous machine nonlinear system ide
 [![](https://img.shields.io/github/stars/Zirui24/SynMotor_FSO_ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/SynMotor_FSO_ParamEst)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/profile/Zirui-Liu-15/publication/379939779_Analytical_Approach_for_Position_Observation_Error_Correction_in_IPMSM_Sensorless_Drives_Using_Online_Multi-Parameter_Estimation/links/662902af06367b604d489c46/Analytical-Approach-for-Position-Observation-Error-Correction-in-IPMSM-Sensorless-Drives-Using-Online-Multi-Parameter-Estimation.pdf)
 
-- ``IEEE TIA`` Online Multiparameter Estimation with Position Error Correction for Unified Synchronous Machine Sensorless Drives **Under Review**
-**Zirui Liu**, Wubin Kong, Hengyang Liu, Kai Peng, Fei Wang, Ronghai Qu
-[![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/AdaptParamOb_ACMotorSensorlessControl)
-
 - ``ECCE 2023`` [Online Multiparameter Estimation with Position Error Correction for Unified Synchronous Machine Sensorless Drives](https://ieeexplore.ieee.org/abstract/document/10362894) 
 **Zirui Liu**, Wubin Kong, Xinggang Fan, Fei Wang, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/AdaptParamOb_ACMotorSensorlessControl)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/376963793_Online_Multiparameter_Estimation_with_Position_Error_Correction_for_Unified_Synchronous_Machine_Sensorless_Drives)
 
+- ``IEEE TIA`` Online Multiparameter Estimation with Position Error Correction for Unified Synchronous Machine Sensorless Drives **Under Review**
+**Zirui Liu**, Wubin Kong, Hengyang Liu, Kai Peng, Fei Wang, Ronghai Qu
+[![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/AdaptParamOb_ACMotorSensorlessControl)
+
+
 #### Part III: Real-time Thermal Modelling and Temperature Estimation
 - ``IEEE TPE`` [Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM](https://ieeexplore.ieee.org/abstract/document/10362894) 
-**Zirui Liu**， Wubin Kong, Xinggang Fan, Zimin Li, Kai Peng, Ronghai Qu 
+**Zirui Liu**, Wubin Kong, Xinggang Fan, Zimin Li, Kai Peng, Ronghai Qu 
 [![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/lptn_informed_LSTM)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/376963793_Online_Multiparameter_Estimation_with_Position_Error_Correction_for_Unified_Synchronous_Machine_Sensorless_Drives)
 
 - ``IEEE DataPort`` [Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM](https://ieee-dataport.org/documents/hybrid-thermal-modeling-lptn-informed-neural-network-multi-node-temperature-estimation)
 **Zirui Liu**, Wubin Kong, Xinggang Fan, Zimin Li, Peng Kai, Ronghai Qu.
 
-- ``IEEE TII`` Noninvasive Thermal Modeling with Physical Informed Neural ODEs for PMSM Stator and Rotor Temperature Estimation **Under Review**
-**Zirui Liu**, Wubin Kong, XinggangFan, Haifeng Guo,  Ronghai Qu
-
 #### Others
 
-- ``ICEMS`` [A Capacitor Voltage Sorting Algorithm for Modular Multilevel Converters(MMC) under Low-Frequency Carrier Modulation](https://ieeexplore.ieee.org/abstract/document/8922104)
+- ``ICEMS 2019`` [A Capacitor Voltage Sorting Algorithm for Modular Multilevel Converters(MMC) under Low-Frequency Carrier Modulation](https://ieeexplore.ieee.org/abstract/document/8922104)
 **Zirui Liu**, Wenjuan Yu, Haifeng Guo, Wubin Kong, Chun Gan, Ronghai Qu
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/337785714_A_Capacitor_Voltage_Sorting_Algorithm_for_Modular_Multilevel_ConvertersMMC_under_Low-Frequency_Carrier_Modulation)
 
