@@ -84,7 +84,7 @@ My research includes high power density synchronous machine nonlinear system ide
 
 #### Part II: AC Machine Position Sensorless Control
 
-- ``IEEE TPE`` [Analytical Approach for Position Observation Error Correction in IPMSM Sensorless Drives Using Online Multi-Parameter Estimation](https://ieeexplore.ieee.org/abstract/document/9835132) 
+- ``IEEE TPE`` [Analytical Approach for Position Observation Error Correction in IPMSM Sensorless Drives Using Online Multi-Parameter Estimation](https://ieeexplore.ieee.org/abstract/document/10505008) 
 **Zirui Liu**, Bohan Shen, Wubin Kong, Xinggang Fan, Kai Peng, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/SynMotor_FSO_ParamEst?style=social&label=Code+Stars)](https://github.com/Zirui24/SynMotor_FSO_ParamEst)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/profile/Zirui-Liu-15/publication/379939779_Analytical_Approach_for_Position_Observation_Error_Correction_in_IPMSM_Sensorless_Drives_Using_Online_Multi-Parameter_Estimation/links/662902af06367b604d489c46/Analytical-Approach-for-Position-Observation-Error-Correction-in-IPMSM-Sensorless-Drives-Using-Online-Multi-Parameter-Estimation.pdf)
@@ -100,7 +100,7 @@ My research includes high power density synchronous machine nonlinear system ide
 
 
 #### Part III: Real-time Thermal Modelling and Temperature Estimation
-- ``IEEE TPE`` [Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM](https://ieeexplore.ieee.org/abstract/document/10362894) 
+- ``IEEE TPE`` [Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM](https://ieeexplore.ieee.org/document/10547453) 
 **Zirui Liu**, Wubin Kong, Xinggang Fan, Zimin Li, Kai Peng, Ronghai Qu 
 [![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/lptn_informed_LSTM)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/376963793_Online_Multiparameter_Estimation_with_Position_Error_Correction_for_Unified_Synchronous_Machine_Sensorless_Drives)
@@ -118,7 +118,7 @@ My research includes high power density synchronous machine nonlinear system ide
 Songbai Yang, Wubin Kong, Zimin Li, **Zirui Liu**
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/337785714_A_Capacitor_Voltage_Sorting_Algorithm_for_Modular_Multilevel_ConvertersMMC_under_Low-Frequency_Carrier_Modulation)
 
-- ``IEEE TTE`` [A Novel Adaptive Nonlinear Reaching Law for DC-link Voltage Control of DC-biased Vernier Reluctance Generator](https://ieeexplore.ieee.org/abstract/document/10505008) 
+- ``IEEE TTE`` [A Novel Adaptive Nonlinear Reaching Law for DC-link Voltage Control of DC-biased Vernier Reluctance Generator](https://ieeexplore.ieee.org/document/10522963) 
 Zimin Li, Wubin Kong, **Zirui Liu**, Bohan Shen, Ronghai Qu
 
 - ``IEEE JESTPE`` [Dead-Time Compensation Based on Current Phase Estimation for High-Frequency Cascaded Transformer Multilevel Inverter](https://ieeexplore.ieee.org/abstract/document/10543025)
@@ -130,10 +130,10 @@ Haowen Zheng, Jiarui Hao, Ming Zha, **Zirui Liu**, Wubin Kong
 - ``IEEE TIE`` [Improved LPTN-Based Online Temperature Prediction of Permanent Magnet Machines By Global Parameter Identification](https://ieeexplore.ieee.org/abstract/document/9905476/) 
 Longfei Cao, Xinggang Fan, Dawei Li, Wubin Kong, Ronghai Qu, **Zirui Liu**
 
-- ``IEEE TIA`` [Comparison of heat transfer characteristics of the hollow-shaft oil cooling system for high-speed permanent magnet synchronous machines](https://ieeexplore.ieee.org/abstract/document/9835132) 
+- ``IEEE TIA`` [Comparison of heat transfer characteristics of the hollow-shaft oil cooling system for high-speed permanent magnet synchronous machines](https://ieeexplore.ieee.org/document/9795141) 
 Runyu Wang, Xinggang Fan, Dawei Li, Ronghai Qu, **Zirui Liu**, Lei Li
 
-- ``IEEE TEC`` [A Computationally Efficient Semi-Analytical Method for Circulating Current Loss of High Speed Permanent Magnet Machines](https://ieeexplore.ieee.org/abstract/document/10243050/) 
+- ``IEEE TEC`` [A Computationally Efficient Semi-Analytical Method for Circulating Current Loss of High Speed Permanent Magnet Machines](https://ieeexplore.ieee.org/abstract/document/10243050) 
 Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Ronghai Qu
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://nottingham-repository.worktribe.com/preview/27596113/TEC3312648%20A%20Computationally%20Efficient%20Semi-Analytical%20Method%20for%20Circulating%20Current%20Loss%20of%20High%20Speed%20Permanent%20Magnet%20Machines_Author%20Version.pdf)
 
