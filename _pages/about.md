@@ -103,7 +103,7 @@ My research includes high power density synchronous machine nonlinear system ide
 - ``IEEE TPE`` [Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM](https://ieeexplore.ieee.org/document/10547453) 
 **Zirui Liu**, Wubin Kong, Xinggang Fan, Zimin Li, Kai Peng, Ronghai Qu 
 [![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/lptn_informed_LSTM)
-[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/376963793_Online_Multiparameter_Estimation_with_Position_Error_Correction_for_Unified_Synchronous_Machine_Sensorless_Drives)
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/381172560_Hybrid_Thermal_Modeling_with_LPTN-Informed_Neural_Network_for_Multi-Node_Temperature_Estimation_in_PMSM)
 
 - ``IEEE DataPort`` [Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM](https://ieee-dataport.org/documents/hybrid-thermal-modeling-lptn-informed-neural-network-multi-node-temperature-estimation)
 **Zirui Liu**, Wubin Kong, Xinggang Fan, Zimin Li, Peng Kai, Ronghai Qu.
@@ -146,13 +146,28 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 ## 100kW High Temperature Intergated PMSM System
 
-- Fully integrated oil cooling
+- Fully integrated oil cooling.
 
-- Dual margin Controller with SiC MOSSFET power module, total system efficiency is 92%
+- Dual margin Controller with SiC MOSSFET power module, total system efficiency is 92%.
 
-- Operating Ambient Temperature can up to 150 $$^\circ$$C
+- Operating Ambient Temperature can up to 150 $$^\circ$$C.
 
-- Total Power Density 4.82 kW/kg (Larger than the latest aerospace SP200D series from Siemens, which power density is 3.8 kW/kg)
+- Total Power Density 4.82 kW/kg (Larger than the latest aerospace SP200D series from Siemens, which power density is 3.8 kW/kg).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">12kVA Interleave DC/DC & DC/AC SynRM Controller </div><img src='images/proj5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## 12kVA Interleave Bidirectional DC/DC & Three Phase DC/AC Controller SynRm System for Engine Integrated Stator/Generator 
+
+- Interleave bidirectional DC/DC for synchronous reluctance machine drive and battery charging.
+
+- 12kVA capacity with a compact Integrated design.
+
+- Three layer controller & Power electronic drive & Power loop PCB design.
+
+- Parallel design of multi silicon MOSFET design for cost sensitive appliaction.
 </div>
 </div>
 
@@ -161,13 +176,13 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 ## Low Voltage 1kW Electrical Pump System
 
-- Integrated design of cooling channel, high speed pmsm and Si MOSFET controller with Metal Additive Manufacturing
+- Integrated design of cooling channel, high speed pmsm and Si MOSFET controller with Metal Additive Manufacturing.
 
-- 28V 10,000 r/min low voltage high speed SPMSM
+- 28V 10,000 r/min low voltage high speed SPMSM.
 
-- Low cost resistor-based phase current sampling with position sensorless control
+- Low cost resistor-based phase current sampling with position sensorless control.
 
-- The system software is fully based on Matlab Embedded Coder Designer [![](https://img.shields.io/github/stars/Zirui24/EmbeddCoderC2000?style=social&label=Code+Stars)](https://github.com/Zirui24/EmbeddCoderC2000)
+- The system software is fully based on Matlab Embedded Coder Designer [![](https://img.shields.io/github/stars/Zirui24/EmbeddCoderC2000?style=social&label=Code+Stars)](https://github.com/Zirui24/EmbeddCoderC2000).
 </div>
 </div>
 
@@ -176,13 +191,13 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 ## IPMSM Test Platform for EV Application
 
-- 60kW IPMSM Test Platform with back-to-back 
+- 60kW IPMSM Test Platform with back-to-back .
 
-- Up to 20 Temperature Sensors installed inside different positions inside the controller, stator and rotor
+- Up to 20 Temperature Sensors installed inside different positions inside the controller, stator and rotor.
 
-- Raspberry Pi 5 function as a semi host computer for real-time thermal modelling and complex algorithm execution
+- Raspberry Pi 5 function as a semi host computer for real-time thermal modelling and complex algorithm execution.
 
-- The system software is fully based on Matlab Embedded Coder Designer [![](https://img.shields.io/github/stars/Zirui24/EmbeddCoderC2000?style=social&label=Code+Stars)](https://github.com/Zirui24/EmbeddCoderC2000)
+- The system software is fully based on Matlab Embedded Coder Designer [![](https://img.shields.io/github/stars/Zirui24/EmbeddCoderC2000?style=social&label=Code+Stars)](https://github.com/Zirui24/EmbeddCoderC2000).
 </div>
 </div>
 
@@ -216,7 +231,7 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 # 📖 Academic Service
 - Journal Reviewer
 
-IEEE Transactions on Power Electronics (18)
+IEEE Transactions on Power Electronics (20)
 
 IEEE Transactions on Transportation Electrification (5)
 
