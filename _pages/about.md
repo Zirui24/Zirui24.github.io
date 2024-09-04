@@ -163,9 +163,13 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 - Fundamental Frequency range from 20k to 50kHz.
 
-- Single Phase with 8 H-bridge submodules.
+- DSP+FPGA framework with optical-fiber communication between master and slave submodules.
 
-- Output voltage up to 1200V AC with 6.5 kW.
+- Forced air cooling.
+
+- Single Phase Structure with 8 H-bridge submodules based on SiC MOSFET discrete devices.
+
+- Output voltage up to 1200V AC, maximum output power is 6.5 kW.
 </div>
 </div>
 
