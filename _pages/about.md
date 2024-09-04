@@ -40,7 +40,7 @@ My research includes high power density synchronous machine nonlinear system ide
             <td>
                 🎓 2019.09 - 2025.06, PhD, Huazhong University of Sci. & Tech. (HUST), Hubei <br>
                 <br>
-                🎓 2015.09 - 2019.06, Undergraduate, Hunan University, Hunan. <b>GPA: 3.73/4.00 RANK: 2/263</b> <br>
+                🎓 2015.09 - 2019.06, Undergraduate, Hunan University, Hunan. <b>GPA: 3.77/4.00 RANK: 2/263</b> <br>
             </td>
             <td>
                 <b>system identification & control</b> <br>
@@ -153,6 +153,19 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 - Operating Ambient Temperature can up to 150 $$^\circ$$C.
 
 - Total Power Density 4.82 kW/kg (Larger than the latest aerospace SP200D series from Siemens, which power density is 3.8 kW/kg).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1200V Cascaded Multilevel Converter </div><img src='images/mmc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## 1200V Cascaded Multilevel Converter
+
+- Fundamental Frequency range from 20k to 50kHz.
+
+- Single Phase with 8 H-bridge submodules.
+
+- Output voltage up to 1200V AC with 6.5 kW.
 </div>
 </div>
 
