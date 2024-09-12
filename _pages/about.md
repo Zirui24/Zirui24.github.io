@@ -94,7 +94,7 @@ My research includes high power density synchronous machine nonlinear system ide
 [![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/AdaptParamOb_ACMotorSensorlessControl)
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/376963793_Online_Multiparameter_Estimation_with_Position_Error_Correction_for_Unified_Synchronous_Machine_Sensorless_Drives)
 
-- ``IEEE TIA`` Online Multiparameter Estimation with Position Error Correction for Unified Synchronous Machine Sensorless Drives **Under Review**
+- ``IEEE TIA`` Online Multiparameter Estimation with Position Error Correction for Unified Synchronous Machine Sensorless Drives **Early Access**
 **Zirui Liu**, Wubin Kong, Hengyang Liu, Kai Peng, Fei Wang, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/AdaptParamOb_ACMotorSensorlessControl)
 
