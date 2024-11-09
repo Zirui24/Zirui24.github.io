@@ -22,7 +22,8 @@ redirect_from:
 Currently, I am completing my last year of Ph.D degree at the Center for Advanced Electrical Machines & Drives (CAEMD), Huazhong University of Sci. & Tech. (HUST), advised by Professor [Ronghai Qu](https://ieeexplore.ieee.org/author/37278880800).
 
 I am currently looking for any opportunities for a postdoc and research assistant position in the field of power electronics or electrical machine. Here is my CV.
-[![](https://img.shields.io/badge/CV-blue)](https://github.com/Zirui24/Zirui24.github.io/blob/main/CV/CV%20Ziruiliu.pdf)
+[![](https://img.shields.io/badge/CV-blue)](https://github.com/Zirui24/Zirui24.github.io/blob/main/CV/CV%20Ziruiliu.pdf).
+Contact information: ziruiliu24@gmail.com, ziruiliu@hust.edu.cn.
 
 My research includes high power density synchronous machine nonlinear system identification, sensorless control, real-time thermal modelling and temperature estimation. I have published 10+ papers on IEEE Transactions and top EE conferences <a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZirui24%2FZirui24.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
@@ -97,7 +98,7 @@ My research includes high power density synchronous machine nonlinear system ide
 - ``IEEE TIA`` Online Multiparameter Estimation with Position Error Correction for Unified Synchronous Machine Sensorless Drives **Early Access**
 **Zirui Liu**, Wubin Kong, Hengyang Liu, Kai Peng, Fei Wang, Ronghai Qu
 [![](https://img.shields.io/github/stars/Zirui24/AdaptParamOb_ACMotorSensorlessControl?style=social&label=Code+Stars)](https://github.com/Zirui24/AdaptParamOb_ACMotorSensorlessControl)
-
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/384614155_Online_Multiparameter_Estimation_with_Position_Error_Correction_for_Unified_Synchronous_Machine_Sensorless_Drives)
 
 #### Part III: Real-time Thermal Modelling and Temperature Estimation
 - ``IEEE TPE`` [Hybrid Thermal Modeling with LPTN-Informed Neural Network for Multi-Node Temperature Estimation in PMSM](https://ieeexplore.ieee.org/document/10547453) 
@@ -114,12 +115,25 @@ My research includes high power density synchronous machine nonlinear system ide
 **Zirui Liu**, Wenjuan Yu, Haifeng Guo, Wubin Kong, Chun Gan, Ronghai Qu
 [![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/337785714_A_Capacitor_Voltage_Sorting_Algorithm_for_Modular_Multilevel_ConvertersMMC_under_Low-Frequency_Carrier_Modulation)
 
-- ``SEEE`` [Parameter Identification for DC-biased Vernier Reluctance Motor Considering Harmonic Current and Inverter Nonlinearity](https://www.researchgate.net/publication/369252888_Parameter_Identification_for_DC-biased_Vernier_Reluctance_Motor_Considering_Harmonic_Current_and_Inverter_Nonlinearity)
-Songbai Yang, Wubin Kong, Zimin Li, **Zirui Liu**
-[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/337785714_A_Capacitor_Voltage_Sorting_Algorithm_for_Modular_Multilevel_ConvertersMMC_under_Low-Frequency_Carrier_Modulation)
+- ``IEEE TEC`` [A Computationally Efficient Semi-Analytical Method for Circulating Current Loss of High Speed Permanent Magnet Machines](https://ieeexplore.ieee.org/abstract/document/10243050) 
+Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Ronghai Qu
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://nottingham-repository.worktribe.com/preview/27596113/TEC3312648%20A%20Computationally%20Efficient%20Semi-Analytical%20Method%20for%20Circulating%20Current%20Loss%20of%20High%20Speed%20Permanent%20Magnet%20Machines_Author%20Version.pdf)
 
 - ``IEEE TTE`` [A Novel Adaptive Nonlinear Reaching Law for DC-link Voltage Control of DC-biased Vernier Reluctance Generator](https://ieeexplore.ieee.org/document/10522963) 
 Zimin Li, Wubin Kong, **Zirui Liu**, Bohan Shen, Ronghai Qu
+
+- `` J. Power Electron.`` [Active zero-sequence voltage injection modulation strategy for capacitor current suppression in dual sector PMSM systems](https://link.springer.com/article/10.1007/s43236-024-00896-0#citeas)
+Yifei Shao, Wubin Kong, **Zirui Liu**, Haifeng Guo, Longxiao Wang, Ronghai Qu
+
+- ``IEEE JESTPE`` [A multi-Frequency Equivalent Harmonic Modeling Method for Digital Discontinuous PWM](https://ieeexplore.ieee.org/document/10659005)
+Haifeng Guo, Yifei Shao, Wubin Kong, **Zirui Liu**, Liangling Li, Ronghai Qu
+
+- ``IEEE TPE`` [Modeling and Optimization Algorithm of Coupling Noise for SiC MOSFET Active Gate Driver Considering Common-Source Inductance](https://ieeexplore.ieee.org/abstract/document/10631707)
+Hengyang Liu, Wubin Kong, Gen Long, Hangchuan Lou, Xianglong Wu, Dawei Li, **Zirui Liu**, Minghai Dong, Zian Zhao, Yixue Wen
+
+- ``SEEE`` [Parameter Identification for DC-biased Vernier Reluctance Motor Considering Harmonic Current and Inverter Nonlinearity](https://www.researchgate.net/publication/369252888_Parameter_Identification_for_DC-biased_Vernier_Reluctance_Motor_Considering_Harmonic_Current_and_Inverter_Nonlinearity)
+Songbai Yang, Wubin Kong, Zimin Li, **Zirui Liu**
+[![](https://img.shields.io/badge/PDF-8A2BE2)](https://www.researchgate.net/publication/337785714_A_Capacitor_Voltage_Sorting_Algorithm_for_Modular_Multilevel_ConvertersMMC_under_Low-Frequency_Carrier_Modulation)
 
 - ``IEEE JESTPE`` [Dead-Time Compensation Based on Current Phase Estimation for High-Frequency Cascaded Transformer Multilevel Inverter](https://ieeexplore.ieee.org/abstract/document/10543025)
 Hengyang Liu, Xianglong Wu, Wubin Kong, Gen Long, Hangchuan Lou, **Zirui Liu**, Dawei Li.
@@ -133,9 +147,6 @@ Longfei Cao, Xinggang Fan, Dawei Li, Wubin Kong, Ronghai Qu, **Zirui Liu**
 - ``IEEE TIA`` [Comparison of heat transfer characteristics of the hollow-shaft oil cooling system for high-speed permanent magnet synchronous machines](https://ieeexplore.ieee.org/document/9795141) 
 Runyu Wang, Xinggang Fan, Dawei Li, Ronghai Qu, **Zirui Liu**, Lei Li
 
-- ``IEEE TEC`` [A Computationally Efficient Semi-Analytical Method for Circulating Current Loss of High Speed Permanent Magnet Machines](https://ieeexplore.ieee.org/abstract/document/10243050) 
-Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Ronghai Qu
-[![](https://img.shields.io/badge/PDF-8A2BE2)](https://nottingham-repository.worktribe.com/preview/27596113/TEC3312648%20A%20Computationally%20Efficient%20Semi-Analytical%20Method%20for%20Circulating%20Current%20Loss%20of%20High%20Speed%20Permanent%20Magnet%20Machines_Author%20Version.pdf)
 
 <span class='anchor' id='projects'></span>
 
@@ -184,7 +195,7 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 
 - Three layer controller & Power electronic drive & Power loop PCB design.
 
-- Parallel design of multi silicon MOSFET design for cost sensitive appliaction.
+- Parallel design of multi silicon MOSFET design for cost sensitive application.
 </div>
 </div>
 
@@ -236,8 +247,8 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🏆 Honors and Awards
-- **Two times** National Scholarship (*2016*, *2017*)
-- **Three times** The first prize Scholarship (*2018*, *2022*, *2023*)
+- **Three times** National Scholarship (*2016*, *2017*, *2024*)
+- **Four times** The first prize Scholarship (*2018*, *2022*, *2023*, *2024*)
 - **Three times** Merit Student (*2016*, *2017*, *2018*)
 - *2017.03* **Meritorious Winner** in The Mathematical Contest in Modeling (MCM)
 - *2017.11* **The Second prize of Hunan Area** in The National Undergraduate Electronic Design Contest
@@ -248,13 +259,13 @@ Lei Li, Xinggang Fan, **Zirui Liu**, Dawei Li, Tianjie Zou, Xiaoxue Chen, Rongha
 # 📖 Academic Service
 - Journal Reviewer
 
-IEEE Transactions on Power Electronics (20)
+IEEE Transactions on Power Electronics
 
-IEEE Transactions on Transportation Electrification (5)
+IEEE Transactions on Transportation Electrification
 
-IEEE Journal of Emerging and Selected Topics in Power Electronics (1)
+IEEE Journal of Emerging and Selected Topics in Power Electronics
 
-IEEE Transactions on Industrial Informatics (1)
+IEEE Transactions on Industrial Informatics
 
 - Conference Reviewer
 
