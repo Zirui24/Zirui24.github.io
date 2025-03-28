@@ -252,7 +252,7 @@ Runyu Wang, Xinggang Fan, Dawei Li, Ronghai Qu, **Zirui Liu**, Lei Li
 - **Three times** Merit Student (*2016*, *2017*, *2018*)
 - *2017.03* **Meritorious Winner** in The Mathematical Contest in Modeling (MCM)
 - *2017.11* **The Second prize of Hunan Area** in The National Undergraduate Electronic Design Contest
-- *2021.11* **Outstanding Winner** in the Huawei Future Smart Car Creative Innovation Competition (The competition prize is 100,000 yuan)
+- *2021.11* **Outstanding Winner** in the Future Smart Car Creative Innovation Competition (The competition prize is 100,000 yuan)
 
 <span class='anchor' id='academic-service'></span>
 
@@ -276,8 +276,3 @@ The 26th international Conference on Electrical Machines and Systems 2023 (ICEMS
 The 6th International Electrical and Energy Conference 2024 (CIEEC 2023)
 
 The 3rd China International Youth Conference on Electrical Engineering (CIYCEE 2022)
-
-<span class='anchor' id='internships'></span>
-
-# 💻 Internships
-- *2021.02 - 2021.04*, Huawei Intelligent Vehicle Solutions BU, Shanghai, China.
