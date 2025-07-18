@@ -247,11 +247,10 @@ Runyu Wang, Xinggang Fan, Dawei Li, Ronghai Qu, **Zirui Liu**, Lei Li
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🏆 Honors and Awards
-- **Three times** National Scholarship (*2016*, *2017*, *2024*)
 - **Four times** The first prize Scholarship (*2018*, *2022*, *2023*, *2024*)
 - **Three times** Merit Student (*2016*, *2017*, *2018*)
 - *2017.03* **Meritorious Winner** in The Mathematical Contest in Modeling (MCM)
-- *2017.11* **The Second prize of Hunan Area** in The National Undergraduate Electronic Design Contest
+- *2017.11* **The Second prize of Hunan Area** in The Undergraduate Electronic Design Contest
 - *2021.11* **Outstanding Winner** in the Future Smart Car Creative Innovation Competition (The competition prize is 100,000 yuan)
 
 <span class='anchor' id='academic-service'></span>
