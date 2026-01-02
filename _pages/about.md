@@ -19,13 +19,15 @@ redirect_from:
 
 # 🔋 About Me
 
-Currently, I am completing my last year of Ph.D degree at the Center for Advanced Electrical Machines & Drives (CAEMD), Huazhong University of Sci. & Tech. (HUST), advised by Professor [Ronghai Qu](https://ieeexplore.ieee.org/author/37278880800).
+I am currently a Postdoctoral Research Fellow in Power Electronics and Electrical Machines at the University of Michigan, Ann Arbor. My advisor is Prof. [Lei Zuo](https://name.engin.umich.edu/people/zuo-lei/). My research focuses on electric drives, power electronic systems, and real-time modeling and control of advanced electrical machines for renewable energy and electrified systems.
 
-I am currently looking for any opportunities for a postdoc and research assistant position in the field of power electronics or electrical machine. Here is my CV.
-[![](https://img.shields.io/badge/CV-blue)](https://github.com/Zirui24/Zirui24.github.io/blob/main/CV/CV%20Ziruiliu.pdf).
-Contact information: ziruiliu24@gmail.com, ziruiliu@hust.edu.cn.
+I received my Ph.D. degree in Electrical Engineering from the Center for Advanced Electrical Machines & Drives (CAEMD), Huazhong University of Science and Technology (HUST), where I was advised by Prof. [Ronghai Qu](https://ieeexplore.ieee.org/author/37278880800). My doctoral research centered on real-time electro-thermal parameter identification and nonlinear modeling of permanent magnet synchronous machines (PMSMs), with emphasis on sensorless control, online parameter estimation, and experimental validation.
 
-My research includes high power density synchronous machine nonlinear system identification, sensorless control, real-time thermal modelling and temperature estimation. I have published 10+ papers on IEEE Transactions and top EE conferences <a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZirui24%2FZirui24.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+My current work involves the design, optimization, and control of power electronic converters and electric drives for hybrid wave–current energy harvesting systems, including generator–converter co-design, real-time control implementation, and hardware-in-the-loop (HIL) validation. I am particularly interested in high-power-density drive systems, multi-physics modeling, and data-driven methods integrated with physics-based models.
+
+My research outcomes have been published in leading IEEE journals, including IEEE Transactions on Power Electronics, IEEE Transactions on Industrial Electronics, and related venues. I also actively serve as a reviewer for multiple IEEE Transactions journals in power electronics, electric machines, and transportation electrification. <a href='https://scholar.google.com/citations?user=s6tTk9wAAAAJ'><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZirui24%2FZirui24.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+
+My long-term research goal is to develop efficient, reliable, and intelligent electric drive and power electronic systems for renewable energy, electrified transportation, and emerging energy conversion applications.
 
 <html>
     <table style="margin-left: auto; margin-right: auto;">
@@ -58,7 +60,7 @@ My research includes high power density synchronous machine nonlinear system ide
 
 **Programming:** C, Matlab, Python, LaTeX
 
-**Tools:** Simulink, Embedded Coder, Altium Designer, JMAG, Pspice
+**Tools:** Simulink, Embedded Coder, Altium Designer, JMAG, Pspice, CAD
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
