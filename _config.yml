@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zirui Liu"
-description              : "PhD student in HUST. Focusing on electrical machine control & analysis"
+description              : "Postdoctoral Research Fellow in EE. Focusing on electrical machine control & analysis"
 repository               : "zirui24.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zirui Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Postdoctoral Research Fellow in EE"
+  bio              : 
   location         : "Ann Arbor, MI, US"
   employer         : 
   pubmed           : 
